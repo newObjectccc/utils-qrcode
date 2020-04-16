@@ -23,3 +23,4 @@
 </script>
 ```
 
+https://github.com/davidshimjs/qrcodejs   搬运地址在这里
